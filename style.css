@@ -83,3 +83,17 @@ a:hover {
     font-family: 'Mali', cursive;
     font-family: 'Poppins', sans-serif;
 }
+
+/* pagina cronicas */ 
+.p__cronicas {
+    margin: 10px 30px 10px 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    justify-content: center;
+}
+.img__cronicas {
+    width: 50%;
+    margin-top: 20px;
+    border-radius: 20px;
+}
