@@ -134,3 +134,56 @@ a:hover {
     font-family: 'Mali', cursive;
     font-family: 'Poppins', sans-serif;
 }
+
+/* pagina Angie */ 
+.h1__angie {
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.p__angie {
+    margin: 10px 20px 10px 20px;
+    text-align: justify;
+}
+.div__angie {
+    width: 100%;
+    text-align: center;
+}
+.img__angie {
+    width: 60%;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.h3__angie {
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+#div-caracteristicas {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10px;
+    /**border: 1px solid gray; **/ 
+    padding: 5px;
+}
+#h2-section {
+    text-align: left;
+}
+#section2_content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+#img_2section {
+    width: 25px;
+    height: 25px;
+    margin-right: 15px;
+}
+#p_2section {
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
