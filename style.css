@@ -93,15 +93,19 @@ a:hover {
 }
 .p__cronicas {
     margin: 10px 30px 10px 30px;
-    text-align: center;
+    text-align: justify;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.1rem;
     justify-content: center;
 }
+.img__cronicas--div {
+    text-align: center;
+}
 .img__cronicas {
-    width: 50%;
+    width: 60%;
     margin-top: 20px;
     border-radius: 20px;
+    margin-bottom: 25px;
 }
 
 /* sobre nosotras */ 
