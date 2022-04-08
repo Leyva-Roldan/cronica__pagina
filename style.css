@@ -11,7 +11,6 @@
 }
 .h1__header {
     text-align: center;
-    padding: 30px;
     font-family: 'Balsamiq Sans', cursive;
     font-family: 'Mali', cursive;
     font-family: 'Poppins', sans-serif;
@@ -19,9 +18,12 @@
     text-shadow: 4px -3px 7px rgba(0,0,0,0.78);
     cursor: pointer;
 }
-.h1__header:hover {
-    font-size: 2.7rem;
-    
+.a__header {
+    font-size: 3.0rem;
+    padding: 10px;
+}
+.a__header:hover {
+    font-size: 3.5rem;
 }
 .p__header {
     text-align: center;
@@ -36,7 +38,6 @@
 .hr__header {
     width: 75%;
     margin: 0 auto;
-    margin-top: -25px;
     margin-bottom: 20px;
     height: 3px;
     background-color: black;
@@ -85,6 +86,10 @@ a:hover {
 }
 
 /* pagina cronicas */ 
+.h1__cronicas {
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+}
 .p__cronicas {
     margin: 10px 30px 10px 30px;
     text-align: center;
@@ -96,4 +101,36 @@ a:hover {
     width: 50%;
     margin-top: 20px;
     border-radius: 20px;
+}
+
+/* sobre nosotras */ 
+.angie {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: 20px auto 20px auto;
+    background-color: #fad2e1;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.jecenia {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto 20px auto;
+    background-color: #fad2e1;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.h1__sobre--nosotras {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
 }
