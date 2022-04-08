@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Mali:ital,wght@1,400;1,500&family=Poppins:wght@400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+/* header */
+.header {
+    background-color: #fad2e1;
+    width: 100%;
+}
+.h1__header {
+    text-align: center;
+    padding: 30px;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    text-shadow: 4px -3px 7px rgba(0,0,0,0.78);
+    cursor: pointer;
+}
+.h1__header:hover {
+    font-size: 2.7rem;
+    
+}
+.p__header {
+    text-align: center;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 13px;
+}
+.hr__header {
+    width: 75%;
+    margin: 0 auto;
+    margin-top: -25px;
+    margin-bottom: 20px;
+    height: 3px;
+    background-color: black;
+}
+/* h3 1 divisor */ 
+.hr__division--1 {
+    height: 2px;
+    background-color: black;
+    width: 20%;
+    margin: 0 auto 20px auto;
+}
+
+/* cronicas */ 
+.cronicas {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto 20px auto;
+    background-color: #fad2e1;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+}
+a:hover {
+    font-size: 1.5rem;
+}
+
+.sobre__nosotras {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto 20px auto;
+    background-color: #fad2e1;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Mali', cursive;
+    font-family: 'Poppins', sans-serif;
+}
