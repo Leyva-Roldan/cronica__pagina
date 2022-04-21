@@ -193,6 +193,8 @@ a:hover {
     font-size: 13px;
 }
 
-@media (min-width: 640px) {
-
+@media (min-width: 1000px) {
+    .img__cronicas {
+        width: 40%;
+    }
 }
