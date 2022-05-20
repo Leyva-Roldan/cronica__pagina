@@ -203,6 +203,25 @@ a:hover {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+/* reconstruccion relato*/ 
+.reconstruccion {
+    width: 100%;
+    text-align: justify;
+    margin-top: 20px;
+}
+.reconstruccion p {
+    margin: 10px 20px 10px 20px;
+    font-family: 'Mali', cursive;
+}
+.reconstruccion h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.reconstruccion h6 {
+    margin: 10px 20px 10px 20px;
+    font-size: 14px;
+}
 
 
 
