@@ -193,6 +193,20 @@ a:hover {
     font-size: 13px;
 }
 
+/* recursos narrativos */
+.div_recursos_narrativos {
+    width: 100%;
+    text-align: center;
+}
+.div_recursos_narrativos img {
+    width: 75%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
 @media (min-width: 1000px) {
     .img__cronicas {
         width: 40%;
