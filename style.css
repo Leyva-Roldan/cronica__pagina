@@ -232,6 +232,15 @@ a:hover {
 .div_mapa img {
     width: 80%;
 }
+/* cronica en audio */ 
+.video {
+    width: 100%;
+    text-align: center;
+}
+.video video {
+    width: 80%;
+    margin-top: 20px;
+}
 
 
 
